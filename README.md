@@ -2,4 +2,5 @@ Education App
  
 Navigation Flow
 
-<img width="761" height="441" alt="Nav flow drawio" src="https://github.com/user-attachments/assets/590d22c9-2313-4cb9-b006-fa2a4c621069" />
+<img width="761" height="451" alt="Nav flow drawio(1)" src="https://github.com/user-attachments/assets/37a18f89-96ed-4f21-b01a-51f329c107ff" />
+
